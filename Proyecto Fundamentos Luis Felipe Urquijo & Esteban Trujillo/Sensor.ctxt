@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Sensor
+comment1.params=t\ v
+comment1.target=Sensor(java.lang.String,\ double)
+comment10.params=v
+comment10.target=void\ setValor(double)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=sensor
+comment2.target=void\ Sensor(Sensor)
+comment3.params=
+comment3.target=java.lang.String\ toStringSensores()
+comment4.params=
+comment4.target=java.lang.String\ encontrarTipo()
+comment5.params=
+comment5.target=java.util.ArrayList\ organizarSensores()
+comment6.params=
+comment6.target=int\ cantidadSensores()
+comment7.params=
+comment7.target=java.lang.String\ getTipo()
+comment8.params=
+comment8.target=double\ getValor()
+comment9.params=t
+comment9.target=void\ setTipo(java.lang.String)
+numComments=12
